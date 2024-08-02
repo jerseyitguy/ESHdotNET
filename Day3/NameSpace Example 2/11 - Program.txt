@@ -1,0 +1,66 @@
+/*
+We will learn 
+
+Namespace basics
+Using alias directive
+Different namespace members
+
+Why Namespaces 
+Namespaces are used to organize your programs.
+
+They also provide assistance in avoiding name clashes.
+
+Namespaces
+Namespaces don't correspond to file, directory or assembly names. They could be written in separate file and/ or separate assemblies and still belong to the same namespace.
+
+Namespace can be nested in 2 ways
+
+Namespace alias directives. Sometimes you may encounter a long namespace and wish to have it shorter. This could improve readability and still avoid name clashes with similarly named methods
+
+
+Namespaces example 
+*/
+using System;
+
+namespace projectA.TeamA
+{
+class ClassA{
+public static void Print(){
+Console.Writeline("This is Team A Print method");
+}
+}
+}
+namespace ProjectA.TeamB
+{
+class ClassB{
+public  static void Print(){
+Console.Writeline("This is Team B Print method");
+}
+}
+}
+
+*/
+
+
+
+// Program.cs
+using System;
+using MyCompany.Project.Module;       // Using the MyCompany.Project.Module namespace
+using MyCompany.Project.Utilities;    // Using the MyCompany.Project.Utilities namespace
+
+class Program
+{
+    public static void Main()
+    {
+        // Create an instance of the Employee class from MyCompany.Project.Module namespace
+        Employee emp = new Employee
+        {
+            ID = 101,
+            Name = "John Doe"
+        };
+        emp.Display();
+
+        // Call the static method from the Utility class in MyCompany.Project.Utilities namespace
+        Utility.PrintMessage("This is a utility message.");
+    }
+}

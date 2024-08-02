@@ -1,0 +1,16 @@
+// Employee.cs
+using System;
+
+namespace MyCompany.Project.Module
+{
+    public class Employee
+    {
+        public int ID { get; set; }
+        public string Name { get; set; }
+
+        public void Display()
+        {
+            Console.WriteLine("Employee ID: {0}, Name: {1}", ID, Name);
+        }
+    }
+}
