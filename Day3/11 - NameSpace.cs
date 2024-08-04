@@ -27,36 +27,38 @@ using ProjectA.TeamA;
 
 class program
 {
-public static void Main()
-{
-Console.WriteLine("Hello")
-ClassA.Print();
-ProjectA.TeamB.Print();
-}
+	public static void Main()
+	{
+		Console.WriteLine("Hello")
+	ClassA.Print();
+		ProjectA.TeamB.Print();
+	}
 }
 
 namespace ProjectA
 {
 	namespace TeamA
-{
-class ClassA
-{
-public static void Print()
-{Console.WriteLine("TeamA Print Method")
-}
-}
-}
+	{
+		class ClassA
+		{
+			public static void Print()
+			{
+				Console.WriteLine("TeamA Print Method")
+			}
+		}
+	}
 }
 
 namespace ProjectA
 {
 	namespace TeamB
-{
-class ClassA
-{
-public static void Print()
-{Console.WriteLine("TeamB Print Method")
-}
-}
-}
+	{
+		class ClassA
+		{
+			public static void Print()
+			{
+				Console.WriteLine("TeamB Print Method")
+			}
+		}
+	}
 }
