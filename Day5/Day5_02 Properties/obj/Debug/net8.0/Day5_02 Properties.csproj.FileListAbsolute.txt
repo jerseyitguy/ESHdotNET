@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 5\Day5_02 Properties\bin\Debug\net8.0\Day5_02 Properties.exe
+D:\Zach\C# Training\Day 5\Day5_02 Properties\bin\Debug\net8.0\Day5_02 Properties.deps.json
+D:\Zach\C# Training\Day 5\Day5_02 Properties\bin\Debug\net8.0\Day5_02 Properties.runtimeconfig.json
+D:\Zach\C# Training\Day 5\Day5_02 Properties\bin\Debug\net8.0\Day5_02 Properties.dll
+D:\Zach\C# Training\Day 5\Day5_02 Properties\bin\Debug\net8.0\Day5_02 Properties.pdb
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\Day5_02 Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\Day5_02 Properties.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\Day5_02 Properties.AssemblyInfo.cs
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\Day5_02 Properties.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\Day5_02 Properties.dll
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\refint\Day5_02 Properties.dll
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\Day5_02 Properties.pdb
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\Day5_02 Properties.genruntimeconfig.cache
+D:\Zach\C# Training\Day 5\Day5_02 Properties\obj\Debug\net8.0\ref\Day5_02 Properties.dll

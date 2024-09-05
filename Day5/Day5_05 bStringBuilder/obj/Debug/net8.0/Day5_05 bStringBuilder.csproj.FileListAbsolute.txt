@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\bin\Debug\net8.0\Day5_05 bStringBuilder.exe
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\bin\Debug\net8.0\Day5_05 bStringBuilder.deps.json
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\bin\Debug\net8.0\Day5_05 bStringBuilder.runtimeconfig.json
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\bin\Debug\net8.0\Day5_05 bStringBuilder.dll
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\bin\Debug\net8.0\Day5_05 bStringBuilder.pdb
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\Day5_05 bStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\Day5_05 bStringBuilder.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\Day5_05 bStringBuilder.AssemblyInfo.cs
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\Day5_05 bStringBuilder.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\Day5_05 bStringBuilder.dll
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\refint\Day5_05 bStringBuilder.dll
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\Day5_05 bStringBuilder.pdb
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\Day5_05 bStringBuilder.genruntimeconfig.cache
+D:\Zach\C# Training\Day 5\Day5_05 bStringBuilder\obj\Debug\net8.0\ref\Day5_05 bStringBuilder.dll

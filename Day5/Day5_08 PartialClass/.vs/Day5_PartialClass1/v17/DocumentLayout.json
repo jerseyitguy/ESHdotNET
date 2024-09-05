@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8389E1C-DE45-4CC7-9C4A-DAC213B8CD6F}|Day5_PartialClass1\\Day5_PartialClass1.csproj|d:\\zach\\c# training\\day 5\\day5_partialclass1\\day5_partialclass1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8389E1C-DE45-4CC7-9C4A-DAC213B8CD6F}|Day5_PartialClass1\\Day5_PartialClass1.csproj|solutionrelative:day5_partialclass1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Day5_PartialClass1\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_PartialClass1\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Day5_PartialClass1\\Program.cs",
+              "RelativeToolTip": "Day5_PartialClass1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:47:07.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zach\\C# Training\\Day 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B264FBFB-A05B-4974-8524-82841E07E6BC}|Day5_09 OptionalParameters\\Day5_09 OptionalParameters.csproj|d:\\zach\\c# training\\day 5\\day5_09 optionalparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B264FBFB-A05B-4974-8524-82841E07E6BC}|Day5_09 OptionalParameters\\Day5_09 OptionalParameters.csproj|solutionrelative:day5_09 optionalparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC73484-FAC0-43C7-BC01-C74D5DB0FA7A}|Day5_07 Attributes\\Day5_07 Attributes.csproj|d:\\zach\\c# training\\day 5\\day5_07 attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC73484-FAC0-43C7-BC01-C74D5DB0FA7A}|Day5_07 Attributes\\Day5_07 Attributes.csproj|solutionrelative:day5_07 attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8389E1C-DE45-4CC7-9C4A-DAC213B8CD6F}|Day5_08 PartialClass\\Day5_08 PartialClass.csproj|d:\\zach\\c# training\\day 5\\day5_08 partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8389E1C-DE45-4CC7-9C4A-DAC213B8CD6F}|Day5_08 PartialClass\\Day5_08 PartialClass.csproj|solutionrelative:day5_08 partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1C6234-6EB8-46F2-AF64-31F531A79440}|Day5_03 cEnumExamples\\Day5_03 cEnumExamples.csproj|d:\\zach\\c# training\\day 5\\day5_03 cenumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1C6234-6EB8-46F2-AF64-31F531A79440}|Day5_03 cEnumExamples\\Day5_03 cEnumExamples.csproj|solutionrelative:day5_03 cenumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C0E899-8B5A-4F26-913E-6214C39EBEA1}|Day5_03 bEnumExamples\\Day5_03 bEnumExamples.csproj|d:\\zach\\c# training\\day 5\\day5_03 benumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C0E899-8B5A-4F26-913E-6214C39EBEA1}|Day5_03 bEnumExamples\\Day5_03 bEnumExamples.csproj|solutionrelative:day5_03 benumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C93C045-D515-41CD-B4F6-D2802851BFC7}|Day5_06 DifferConvertToSting\u0026ToString\\Day5_06 DifferConvertToSting\u0026ToString.csproj|d:\\zach\\c# training\\day 5\\day5_06 differconverttosting\u0026tostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C93C045-D515-41CD-B4F6-D2802851BFC7}|Day5_06 DifferConvertToSting\u0026ToString\\Day5_06 DifferConvertToSting\u0026ToString.csproj|solutionrelative:day5_06 differconverttosting\u0026tostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11375221-CBD1-455E-83FB-A1FE27374D47}|Day5_05 bStringBuilder\\Day5_05 bStringBuilder.csproj|d:\\zach\\c# training\\day 5\\day5_05 bstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11375221-CBD1-455E-83FB-A1FE27374D47}|Day5_05 bStringBuilder\\Day5_05 bStringBuilder.csproj|solutionrelative:day5_05 bstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E885DAB-229B-44D9-A9B4-AB00E05309AE}|Day5_03 aEnumExamples\\Day5_03 aEnumExamples.csproj|d:\\zach\\c# training\\day 5\\day5_03 aenumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E885DAB-229B-44D9-A9B4-AB00E05309AE}|Day5_03 aEnumExamples\\Day5_03 aEnumExamples.csproj|solutionrelative:day5_03 aenumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB10A95-AA50-4895-B47B-D63DEBCDE9E6}|Day5_02 Properties\\Day5_02 Properties.csproj|d:\\zach\\c# training\\day 5\\day5_02 properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB10A95-AA50-4895-B47B-D63DEBCDE9E6}|Day5_02 Properties\\Day5_02 Properties.csproj|solutionrelative:day5_02 properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB10A95-AA50-4895-B47B-D63DEBCDE9E6}|Day5_02 Properties\\Day5_02 Properties.csproj|d:\\zach\\c# training\\day 5\\day5_02 properties\\day5_02 properties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABB10A95-AA50-4895-B47B-D63DEBCDE9E6}|Day5_02 Properties\\Day5_02 Properties.csproj|solutionrelative:day5_02 properties\\day5_02 properties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FB8709-818D-4E56-A072-E872E77AB6E6}|Day5_01WhyProperties\\Day5_01 WhyProperties.csproj|d:\\zach\\c# training\\day 5\\day5_01whyproperties\\day5_01 whyproperties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60FB8709-818D-4E56-A072-E872E77AB6E6}|Day5_01WhyProperties\\Day5_01 WhyProperties.csproj|solutionrelative:day5_01whyproperties\\day5_01 whyproperties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Zach\\C# Training\\Day 5\\Day05_07 Attributes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day05_07 Attributes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93667E3-F0EF-4798-BD7C-586BBC736297}|Day5_05 DiffString_StringBuilder\\Day5_05 aString.csproj|d:\\zach\\c# training\\day 5\\day5_05 diffstring_stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93667E3-F0EF-4798-BD7C-586BBC736297}|Day5_05 DiffString_StringBuilder\\Day5_05 aString.csproj|solutionrelative:day5_05 diffstring_stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FB8709-818D-4E56-A072-E872E77AB6E6}|Day5_01WhyProperties\\Day5_01 WhyProperties.csproj|d:\\zach\\c# training\\day 5\\day5_01whyproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FB8709-818D-4E56-A072-E872E77AB6E6}|Day5_01WhyProperties\\Day5_01 WhyProperties.csproj|solutionrelative:day5_01whyproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day5_PartialClass1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Person2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day5_PartialClass1\\Person2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day5_PartialClass1\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_07 Attributes\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_07 Attributes\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_07 Attributes\\Program.cs",
+              "RelativeToolTip": "Day5_07 Attributes\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA3wCcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:42:34.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_08 PartialClass\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_08 PartialClass\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_08 PartialClass\\Program.cs",
+              "RelativeToolTip": "Day5_08 PartialClass\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:25:17.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_09 OptionalParameters\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_09 OptionalParameters\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_09 OptionalParameters\\Program.cs*",
+              "RelativeToolTip": "Day5_09 OptionalParameters\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:36:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day05_07 Attributes\\Program.cs",
+              "RelativeDocumentMoniker": "Day05_07 Attributes\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day05_07 Attributes\\Program.cs",
+              "RelativeToolTip": "Day05_07 Attributes\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:32:39.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_06 DifferConvertToSting\u0026ToString\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_06 DifferConvertToSting\u0026ToString\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_06 DifferConvertToSting\u0026ToString\\Program.cs",
+              "RelativeToolTip": "Day5_06 DifferConvertToSting\u0026ToString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:29:08.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_05 bStringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_05 bStringBuilder\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_05 bStringBuilder\\Program.cs",
+              "RelativeToolTip": "Day5_05 bStringBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:21:54.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_05 DiffString_StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_05 DiffString_StringBuilder\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_05 DiffString_StringBuilder\\Program.cs",
+              "RelativeToolTip": "Day5_05 DiffString_StringBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:16:01.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_03 cEnumExamples\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_03 cEnumExamples\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_03 cEnumExamples\\Program.cs",
+              "RelativeToolTip": "Day5_03 cEnumExamples\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:06:19.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_03 bEnumExamples\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_03 bEnumExamples\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_03 bEnumExamples\\Program.cs",
+              "RelativeToolTip": "Day5_03 bEnumExamples\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:57:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_03 aEnumExamples\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_03 aEnumExamples\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_03 aEnumExamples\\Program.cs",
+              "RelativeToolTip": "Day5_03 aEnumExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:47:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Day5_02 Properties.csproj",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_02 Properties\\Day5_02 Properties.csproj",
+              "RelativeDocumentMoniker": "Day5_02 Properties\\Day5_02 Properties.csproj",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_02 Properties\\Day5_02 Properties.csproj",
+              "RelativeToolTip": "Day5_02 Properties\\Day5_02 Properties.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T02:33:22.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_02 Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_02 Properties\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_02 Properties\\Program.cs",
+              "RelativeToolTip": "Day5_02 Properties\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:32:54.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Day5_01 WhyProperties.csproj",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_01WhyProperties\\Day5_01 WhyProperties.csproj",
+              "RelativeDocumentMoniker": "Day5_01WhyProperties\\Day5_01 WhyProperties.csproj",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_01WhyProperties\\Day5_01 WhyProperties.csproj",
+              "RelativeToolTip": "Day5_01WhyProperties\\Day5_01 WhyProperties.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T02:20:00.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_01WhyProperties\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_01WhyProperties\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_01WhyProperties\\Program.cs",
+              "RelativeToolTip": "Day5_01WhyProperties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:18:57.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_PartialClass1\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Program.cs",
+              "RelativeToolTip": "Day5_PartialClass1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:57:24.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person2.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Person2.cs",
+              "RelativeDocumentMoniker": "Day5_PartialClass1\\Person2.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Person2.cs",
+              "RelativeToolTip": "Day5_PartialClass1\\Person2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:55:47.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Person.cs",
+              "RelativeDocumentMoniker": "Day5_PartialClass1\\Person.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 5\\Day5_PartialClass1\\Person.cs",
+              "RelativeToolTip": "Day5_PartialClass1\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:52:31.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\bin\Debug\net8.0\Day5_05 aString.exe
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\bin\Debug\net8.0\Day5_05 aString.deps.json
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\bin\Debug\net8.0\Day5_05 aString.runtimeconfig.json
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\bin\Debug\net8.0\Day5_05 aString.dll
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\bin\Debug\net8.0\Day5_05 aString.pdb
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\Day5_05 aString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\Day5_05 aString.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\Day5_05 aString.AssemblyInfo.cs
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\Day5_05 aString.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\Day5_05 aString.dll
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\refint\Day5_05 aString.dll
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\Day5_05 aString.pdb
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\Day5_05 aString.genruntimeconfig.cache
+D:\Zach\C# Training\Day 5\Day5_05 DiffString_StringBuilder\obj\Debug\net8.0\ref\Day5_05 aString.dll

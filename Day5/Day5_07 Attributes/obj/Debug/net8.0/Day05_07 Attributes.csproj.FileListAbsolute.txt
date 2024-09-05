@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\bin\Debug\net8.0\Day05_07 Attributes.exe
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\bin\Debug\net8.0\Day05_07 Attributes.deps.json
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\bin\Debug\net8.0\Day05_07 Attributes.runtimeconfig.json
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\bin\Debug\net8.0\Day05_07 Attributes.dll
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\bin\Debug\net8.0\Day05_07 Attributes.pdb
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\Day05_07 Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\Day05_07 Attributes.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\Day05_07 Attributes.AssemblyInfo.cs
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\Day05_07 Attributes.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\Day05_07 Attributes.dll
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\refint\Day05_07 Attributes.dll
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\Day05_07 Attributes.pdb
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\Day05_07 Attributes.genruntimeconfig.cache
+D:\Zach\C# Training\Day 5\Day05_07 Attributes\obj\Debug\net8.0\ref\Day05_07 Attributes.dll

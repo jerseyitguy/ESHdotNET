@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\bin\Debug\net8.0\Day5_08 PartialClass.exe
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\bin\Debug\net8.0\Day5_08 PartialClass.deps.json
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\bin\Debug\net8.0\Day5_08 PartialClass.runtimeconfig.json
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\bin\Debug\net8.0\Day5_08 PartialClass.dll
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\bin\Debug\net8.0\Day5_08 PartialClass.pdb
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\Day5_08 PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\Day5_08 PartialClass.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\Day5_08 PartialClass.AssemblyInfo.cs
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\Day5_08 PartialClass.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\Day5_08 PartialClass.dll
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\refint\Day5_08 PartialClass.dll
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\Day5_08 PartialClass.pdb
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\Day5_08 PartialClass.genruntimeconfig.cache
+D:\Zach\C# Training\Day 5\Day5_08 PartialClass\obj\Debug\net8.0\ref\Day5_08 PartialClass.dll

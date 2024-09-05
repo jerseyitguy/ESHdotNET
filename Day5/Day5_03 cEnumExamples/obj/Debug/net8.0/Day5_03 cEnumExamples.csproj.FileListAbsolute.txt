@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\bin\Debug\net8.0\Day5_03 cEnumExamples.exe
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\bin\Debug\net8.0\Day5_03 cEnumExamples.deps.json
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\bin\Debug\net8.0\Day5_03 cEnumExamples.runtimeconfig.json
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\bin\Debug\net8.0\Day5_03 cEnumExamples.dll
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\bin\Debug\net8.0\Day5_03 cEnumExamples.pdb
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\Day5_03 cEnumExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\Day5_03 cEnumExamples.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\Day5_03 cEnumExamples.AssemblyInfo.cs
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\Day5_03 cEnumExamples.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\Day5_03 cEnumExamples.dll
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\refint\Day5_03 cEnumExamples.dll
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\Day5_03 cEnumExamples.pdb
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\Day5_03 cEnumExamples.genruntimeconfig.cache
+D:\Zach\C# Training\Day 5\Day5_03 cEnumExamples\obj\Debug\net8.0\ref\Day5_03 cEnumExamples.dll
