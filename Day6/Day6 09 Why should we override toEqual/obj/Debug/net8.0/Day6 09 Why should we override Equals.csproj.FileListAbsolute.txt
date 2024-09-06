@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\bin\Debug\net8.0\Day6 09 Why should we override Equals.exe
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\bin\Debug\net8.0\Day6 09 Why should we override Equals.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\bin\Debug\net8.0\Day6 09 Why should we override Equals.runtimeconfig.json
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\bin\Debug\net8.0\Day6 09 Why should we override Equals.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\bin\Debug\net8.0\Day6 09 Why should we override Equals.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\Day6 09 Why should we override Equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\Day6 09 Why should we override Equals.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\Day6 09 Why should we override Equals.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\Day6 09 Why should we override Equals.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\Day6 09 Why should we override Equals.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\refint\Day6 09 Why should we override Equals.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\Day6 09 Why should we override Equals.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\Day6 09 Why should we override Equals.genruntimeconfig.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Debug\net8.0\ref\Day6 09 Why should we override Equals.dll

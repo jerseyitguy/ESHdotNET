@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\bin\Release\net8.0\Day6 06 Access Modifiers.exe
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\bin\Release\net8.0\Day6 06 Access Modifiers.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\bin\Release\net8.0\Day6 06 Access Modifiers.runtimeconfig.json
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\bin\Release\net8.0\Day6 06 Access Modifiers.dll
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\bin\Release\net8.0\Day6 06 Access Modifiers.pdb
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\Day6 06 Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\Day6 06 Access Modifiers.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\Day6 06 Access Modifiers.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\Day6 06 Access Modifiers.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\Day6 06 Access Modifiers.dll
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\refint\Day6 06 Access Modifiers.dll
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\Day6 06 Access Modifiers.pdb
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\Day6 06 Access Modifiers.genruntimeconfig.cache
+D:\Zach\C# Training\Day 6\Day6\Day06 06 Access Modifiers\obj\Release\net8.0\ref\Day6 06 Access Modifiers.dll

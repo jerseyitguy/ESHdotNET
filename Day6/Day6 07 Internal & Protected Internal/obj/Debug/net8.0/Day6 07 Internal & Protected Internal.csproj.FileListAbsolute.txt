@@ -1,0 +1,18 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\bin\Debug\net8.0\Day6 07 Internal & Protected Internal.exe
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\bin\Debug\net8.0\Day6 07 Internal & Protected Internal.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\bin\Debug\net8.0\Day6 07 Internal & Protected Internal.runtimeconfig.json
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\bin\Debug\net8.0\Day6 07 Internal & Protected Internal.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\bin\Debug\net8.0\Day6 07 Internal & Protected Internal.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\bin\Debug\net8.0\Day6 07.1 ClassLibrary.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\bin\Debug\net8.0\Day6 07.1 ClassLibrary.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.csproj.AssemblyReference.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 .0E8211B4.Up2Date
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\refint\Day6 07 Internal & Protected Internal.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\Day6 07 Internal & Protected Internal.genruntimeconfig.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 07 Internal & Protected Internal\obj\Debug\net8.0\ref\Day6 07 Internal & Protected Internal.dll

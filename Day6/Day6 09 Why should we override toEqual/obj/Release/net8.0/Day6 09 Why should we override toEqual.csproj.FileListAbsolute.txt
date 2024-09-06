@@ -1,0 +1,4 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Release\net8.0\Day6 09 Why should we override toEqual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Release\net8.0\Day6 09 Why should we override toEqual.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Release\net8.0\Day6 09 Why should we override toEqual.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 09 Why should we override toEqual\obj\Release\net8.0\Day6 09 Why should we override toEqual.csproj.CoreCompileInputs.cache

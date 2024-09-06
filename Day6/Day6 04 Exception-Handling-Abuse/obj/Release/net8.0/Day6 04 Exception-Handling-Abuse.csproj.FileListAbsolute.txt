@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\bin\Release\net8.0\Day6 04 Exception-Handling-Abuse.exe
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\bin\Release\net8.0\Day6 04 Exception-Handling-Abuse.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\bin\Release\net8.0\Day6 04 Exception-Handling-Abuse.runtimeconfig.json
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\bin\Release\net8.0\Day6 04 Exception-Handling-Abuse.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\bin\Release\net8.0\Day6 04 Exception-Handling-Abuse.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\Day6 04 Exception-Handling-Abuse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\Day6 04 Exception-Handling-Abuse.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\Day6 04 Exception-Handling-Abuse.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\Day6 04 Exception-Handling-Abuse.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\Day6 04 Exception-Handling-Abuse.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\refint\Day6 04 Exception-Handling-Abuse.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\Day6 04 Exception-Handling-Abuse.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\Day6 04 Exception-Handling-Abuse.genruntimeconfig.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 04 Exception-Handling-Abuse\obj\Release\net8.0\ref\Day6 04 Exception-Handling-Abuse.dll

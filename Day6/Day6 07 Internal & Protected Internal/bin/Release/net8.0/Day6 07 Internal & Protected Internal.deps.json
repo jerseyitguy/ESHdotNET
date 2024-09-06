@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day6 07 Internal & Protected Internal/1.0.0": {
+        "runtime": {
+          "Day6 07 Internal & Protected Internal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day6 07 Internal & Protected Internal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

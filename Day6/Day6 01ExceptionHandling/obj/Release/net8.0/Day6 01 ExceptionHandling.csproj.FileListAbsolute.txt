@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\bin\Release\net8.0\Day6 01 ExceptionHandling.exe
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\bin\Release\net8.0\Day6 01 ExceptionHandling.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\bin\Release\net8.0\Day6 01 ExceptionHandling.runtimeconfig.json
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\bin\Release\net8.0\Day6 01 ExceptionHandling.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\bin\Release\net8.0\Day6 01 ExceptionHandling.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\Day6 01 ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\Day6 01 ExceptionHandling.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\Day6 01 ExceptionHandling.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\Day6 01 ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\Day6 01 ExceptionHandling.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\refint\Day6 01 ExceptionHandling.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\Day6 01 ExceptionHandling.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\Day6 01 ExceptionHandling.genruntimeconfig.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 01ExceptionHandling\obj\Release\net8.0\ref\Day6 01 ExceptionHandling.dll

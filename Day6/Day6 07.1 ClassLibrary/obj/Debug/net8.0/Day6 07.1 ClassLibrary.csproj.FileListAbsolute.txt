@@ -1,0 +1,11 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\bin\Debug\net8.0\Day6 07.1 ClassLibrary.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\bin\Debug\net8.0\Day6 07.1 ClassLibrary.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\bin\Debug\net8.0\Day6 07.1 ClassLibrary.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\Day6 07.1 ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\Day6 07.1 ClassLibrary.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\Day6 07.1 ClassLibrary.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\Day6 07.1 ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\Day6 07.1 ClassLibrary.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\refint\Day6 07.1 ClassLibrary.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\Day6 07.1 ClassLibrary.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 07.1 ClassLibrary\obj\Debug\net8.0\ref\Day6 07.1 ClassLibrary.dll

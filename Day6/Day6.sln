@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6 01 ExceptionHandling", "Day6 01ExceptionHandling\Day6 01 ExceptionHandling.csproj", "{C1B1F088-8B48-4E25-8381-B89161A4822E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 02 Inner-Exception-Handling", "Day6 02 Inner-Exception-Handling\Day6 02 Inner-Exception-Handling.csproj", "{A8E7902E-5898-4BAE-A444-055258D5C461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 03 Custom Exception", "Day6 03 Custom Exception\Day6 03 Custom Exception.csproj", "{3BA57C41-0CCB-4E9B-B737-8A07928B6634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 04 Exception-Handling-Abuse", "Day6 04 Exception-Handling-Abuse\Day6 04 Exception-Handling-Abuse.csproj", "{4EDAF59A-42DD-4FBC-A4BD-920E499CB2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 05 Preventing-Exception-Handling", "Day6 05 Preventing-Exception-Handling\Day6 05 Preventing-Exception-Handling.csproj", "{502CA079-C61B-4076-A650-A31745A9CCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 06 Access Modifiers", "Day06 06 Access Modifiers\Day6 06 Access Modifiers.csproj", "{C858F0FC-82BA-4239-8DAA-4435FC075A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 07 Internal & Protected Internal", "Day6 07 Internal & Protected Internal\Day6 07 Internal & Protected Internal.csproj", "{953B34F4-EB48-42CB-95F1-0784225FBA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 08 Why should we override ToString", "Day6 08 Why should we override ToString\Day6 08 Why should we override ToString.csproj", "{10279FF5-B4DD-444A-912B-0D78A7F7107E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 09 Why should we override Equals", "Day6 09 Why should we override toEqual\Day6 09 Why should we override Equals.csproj", "{6455143F-3F65-47E6-B0A8-BED4941971A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 07.1 ClassLibrary", "Day6 07.1 ClassLibrary\Day6 07.1 ClassLibrary.csproj", "{6ADB82AC-F835-4082-B84C-B5BB8D98DB78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B1F088-8B48-4E25-8381-B89161A4822E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B1F088-8B48-4E25-8381-B89161A4822E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B1F088-8B48-4E25-8381-B89161A4822E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B1F088-8B48-4E25-8381-B89161A4822E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E7902E-5898-4BAE-A444-055258D5C461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E7902E-5898-4BAE-A444-055258D5C461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E7902E-5898-4BAE-A444-055258D5C461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E7902E-5898-4BAE-A444-055258D5C461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA57C41-0CCB-4E9B-B737-8A07928B6634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA57C41-0CCB-4E9B-B737-8A07928B6634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA57C41-0CCB-4E9B-B737-8A07928B6634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA57C41-0CCB-4E9B-B737-8A07928B6634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDAF59A-42DD-4FBC-A4BD-920E499CB2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDAF59A-42DD-4FBC-A4BD-920E499CB2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDAF59A-42DD-4FBC-A4BD-920E499CB2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDAF59A-42DD-4FBC-A4BD-920E499CB2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502CA079-C61B-4076-A650-A31745A9CCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502CA079-C61B-4076-A650-A31745A9CCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502CA079-C61B-4076-A650-A31745A9CCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502CA079-C61B-4076-A650-A31745A9CCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C858F0FC-82BA-4239-8DAA-4435FC075A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C858F0FC-82BA-4239-8DAA-4435FC075A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C858F0FC-82BA-4239-8DAA-4435FC075A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C858F0FC-82BA-4239-8DAA-4435FC075A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953B34F4-EB48-42CB-95F1-0784225FBA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953B34F4-EB48-42CB-95F1-0784225FBA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953B34F4-EB48-42CB-95F1-0784225FBA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953B34F4-EB48-42CB-95F1-0784225FBA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10279FF5-B4DD-444A-912B-0D78A7F7107E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10279FF5-B4DD-444A-912B-0D78A7F7107E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10279FF5-B4DD-444A-912B-0D78A7F7107E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10279FF5-B4DD-444A-912B-0D78A7F7107E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6455143F-3F65-47E6-B0A8-BED4941971A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6455143F-3F65-47E6-B0A8-BED4941971A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6455143F-3F65-47E6-B0A8-BED4941971A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6455143F-3F65-47E6-B0A8-BED4941971A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADB82AC-F835-4082-B84C-B5BB8D98DB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADB82AC-F835-4082-B84C-B5BB8D98DB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADB82AC-F835-4082-B84C-B5BB8D98DB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADB82AC-F835-4082-B84C-B5BB8D98DB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDA3B63-01B3-4BBF-AF71-0048A9E643D8}
+	EndGlobalSection
+EndGlobal

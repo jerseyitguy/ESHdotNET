@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\bin\Debug\net8.0\Day6 05 Preventing-Exception-Handling.exe
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\bin\Debug\net8.0\Day6 05 Preventing-Exception-Handling.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\bin\Debug\net8.0\Day6 05 Preventing-Exception-Handling.runtimeconfig.json
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\bin\Debug\net8.0\Day6 05 Preventing-Exception-Handling.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\bin\Debug\net8.0\Day6 05 Preventing-Exception-Handling.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\Day6 05 Preventing-Exception-Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\Day6 05 Preventing-Exception-Handling.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\Day6 05 Preventing-Exception-Handling.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\Day6 05 Preventing-Exception-Handling.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\Day6 05 Preventing-Exception-Handling.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\refint\Day6 05 Preventing-Exception-Handling.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\Day6 05 Preventing-Exception-Handling.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\Day6 05 Preventing-Exception-Handling.genruntimeconfig.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 05 Preventing-Exception-Handling\obj\Debug\net8.0\ref\Day6 05 Preventing-Exception-Handling.dll

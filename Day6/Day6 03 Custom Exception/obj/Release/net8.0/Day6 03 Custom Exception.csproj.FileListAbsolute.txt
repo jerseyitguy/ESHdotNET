@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\bin\Release\net8.0\Day6 03 Custom Exception.exe
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\bin\Release\net8.0\Day6 03 Custom Exception.deps.json
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\bin\Release\net8.0\Day6 03 Custom Exception.runtimeconfig.json
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\bin\Release\net8.0\Day6 03 Custom Exception.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\bin\Release\net8.0\Day6 03 Custom Exception.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\Day6 03 Custom Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\Day6 03 Custom Exception.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\Day6 03 Custom Exception.AssemblyInfo.cs
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\Day6 03 Custom Exception.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\Day6 03 Custom Exception.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\refint\Day6 03 Custom Exception.dll
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\Day6 03 Custom Exception.pdb
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\Day6 03 Custom Exception.genruntimeconfig.cache
+D:\Zach\C# Training\Day 6\Day6\Day6 03 Custom Exception\obj\Release\net8.0\ref\Day6 03 Custom Exception.dll

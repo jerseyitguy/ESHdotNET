@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day6 08 Why should we override ToString/1.0.0": {
+        "runtime": {
+          "Day6 08 Why should we override ToString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day6 08 Why should we override ToString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
