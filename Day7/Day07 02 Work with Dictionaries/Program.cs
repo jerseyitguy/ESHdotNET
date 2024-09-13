@@ -1,0 +1,54 @@
+﻿
+/*In C#, a Dictionary is a collection type that stores 
+key-value pairs. 
+It is part of the System.Collections.Generic namespace.
+Each entry in a Dictionary consists of a key and a value.
+Keys are unique, and each key maps to exactly one value.
+Use Methods Count(), Remove();Clear();Different ways 
+to convert array into a dictionary
+*/
+
+
+using System;
+using System.Collections.Generic;
+
+
+namespace Day07_02_Work_with_Dictionaries
+{
+    class Program
+    {
+        static void Main()
+        {
+            // Create a dictionary to store student grades
+            Dictionary<string, int> studentGrades = new Dictionary<string, int>();
+
+            // Add students and their grades
+            studentGrades.Add("Alice", 90);
+            studentGrades.Add("Bob", 85);
+            studentGrades.Add("Charlie", 88);
+            //studentGrades.Add("Charlie", 88);
+            // Access and display a student's grade
+            Console.WriteLine("Alice's grade: " + studentGrades["Alice"]);
+
+            // Check if a student is in the dictionary
+            string student = "Bob";
+            if (studentGrades.TryGetValue(student, out int grade))
+            {
+                Console.WriteLine($"{student}'s grade: {grade}");
+            }
+            else
+            {
+                Console.WriteLine($"{student} is not found.");
+            }
+
+            // Iterate over the dictionary and display all students and their grades
+            Console.WriteLine("\nStudent Grades:");
+            foreach (var kvp in studentGrades)
+            {
+                Console.WriteLine($"Student: {kvp.Key}, Grade: {kvp.Value}");
+            }
+            Console.WriteLine("Total Count {0}", studentGrades.Count());
+        }
+    }
+
+}

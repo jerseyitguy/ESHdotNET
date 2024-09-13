@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\bin\Debug\net8.0\Day07 09 Async Await.exe
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\bin\Debug\net8.0\Day07 09 Async Await.deps.json
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\bin\Debug\net8.0\Day07 09 Async Await.runtimeconfig.json
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\bin\Debug\net8.0\Day07 09 Async Await.dll
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\bin\Debug\net8.0\Day07 09 Async Await.pdb
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\Day07 09 Async Await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\Day07 09 Async Await.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\Day07 09 Async Await.AssemblyInfo.cs
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\Day07 09 Async Await.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\Day07 09 Async Await.dll
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\refint\Day07 09 Async Await.dll
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\Day07 09 Async Await.pdb
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\Day07 09 Async Await.genruntimeconfig.cache
+D:\Zach\C# Training\Day 7\Day07 09 Async Await\obj\Debug\net8.0\ref\Day07 09 Async Await.dll

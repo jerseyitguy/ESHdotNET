@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\bin\Debug\net8.0\Day07 05 Sort a List of Complex Types.exe
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\bin\Debug\net8.0\Day07 05 Sort a List of Complex Types.deps.json
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\bin\Debug\net8.0\Day07 05 Sort a List of Complex Types.runtimeconfig.json
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\bin\Debug\net8.0\Day07 05 Sort a List of Complex Types.dll
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\bin\Debug\net8.0\Day07 05 Sort a List of Complex Types.pdb
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\Day07 05 Sort a List of Complex Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\Day07 05 Sort a List of Complex Types.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\Day07 05 Sort a List of Complex Types.AssemblyInfo.cs
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\Day07 05 Sort a List of Complex Types.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\Day07 05 Sort a List of Complex Types.dll
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\refint\Day07 05 Sort a List of Complex Types.dll
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\Day07 05 Sort a List of Complex Types.pdb
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\Day07 05 Sort a List of Complex Types.genruntimeconfig.cache
+D:\Zach\C# Training\Day 7\Day07 05 Sort a List of Complex Types\obj\Debug\net8.0\ref\Day07 05 Sort a List of Complex Types.dll

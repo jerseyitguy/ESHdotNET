@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\bin\Debug\net8.0\Day07 08 Lambda expression.exe
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\bin\Debug\net8.0\Day07 08 Lambda expression.deps.json
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\bin\Debug\net8.0\Day07 08 Lambda expression.runtimeconfig.json
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\bin\Debug\net8.0\Day07 08 Lambda expression.dll
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\bin\Debug\net8.0\Day07 08 Lambda expression.pdb
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\Day07 08 Lambda expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\Day07 08 Lambda expression.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\Day07 08 Lambda expression.AssemblyInfo.cs
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\Day07 08 Lambda expression.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\Day07 08 Lambda expression.dll
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\refint\Day07 08 Lambda expression.dll
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\Day07 08 Lambda expression.pdb
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\Day07 08 Lambda expression.genruntimeconfig.cache
+D:\Zach\C# Training\Day 7\Day07 08 Lambda expression\obj\Debug\net8.0\ref\Day07 08 Lambda expression.dll

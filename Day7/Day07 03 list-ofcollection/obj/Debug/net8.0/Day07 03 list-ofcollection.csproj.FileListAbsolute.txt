@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\bin\Debug\net8.0\Day07 03 list-ofcollection.exe
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\bin\Debug\net8.0\Day07 03 list-ofcollection.deps.json
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\bin\Debug\net8.0\Day07 03 list-ofcollection.runtimeconfig.json
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\bin\Debug\net8.0\Day07 03 list-ofcollection.dll
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\bin\Debug\net8.0\Day07 03 list-ofcollection.pdb
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\Day07 03 list-ofcollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\Day07 03 list-ofcollection.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\Day07 03 list-ofcollection.AssemblyInfo.cs
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\Day07 03 list-ofcollection.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\Day07 03 list-ofcollection.dll
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\refint\Day07 03 list-ofcollection.dll
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\Day07 03 list-ofcollection.pdb
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\Day07 03 list-ofcollection.genruntimeconfig.cache
+D:\Zach\C# Training\Day 7\Day07 03 list-ofcollection\obj\Debug\net8.0\ref\Day07 03 list-ofcollection.dll

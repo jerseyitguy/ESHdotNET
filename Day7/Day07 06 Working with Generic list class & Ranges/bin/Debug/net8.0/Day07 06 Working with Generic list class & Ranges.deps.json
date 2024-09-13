@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day07 06 Working with Generic list class & Ranges/1.0.0": {
+        "runtime": {
+          "Day07 06 Working with Generic list class & Ranges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day07 06 Working with Generic list class & Ranges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

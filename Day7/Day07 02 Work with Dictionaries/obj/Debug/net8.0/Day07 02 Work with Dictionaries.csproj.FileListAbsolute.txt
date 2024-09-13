@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\bin\Debug\net8.0\Day07 02 Work with Dictionaries.exe
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\bin\Debug\net8.0\Day07 02 Work with Dictionaries.deps.json
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\bin\Debug\net8.0\Day07 02 Work with Dictionaries.runtimeconfig.json
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\bin\Debug\net8.0\Day07 02 Work with Dictionaries.dll
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\bin\Debug\net8.0\Day07 02 Work with Dictionaries.pdb
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\Day07 02 Work with Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\Day07 02 Work with Dictionaries.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\Day07 02 Work with Dictionaries.AssemblyInfo.cs
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\Day07 02 Work with Dictionaries.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\Day07 02 Work with Dictionaries.dll
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\refint\Day07 02 Work with Dictionaries.dll
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\Day07 02 Work with Dictionaries.pdb
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\Day07 02 Work with Dictionaries.genruntimeconfig.cache
+D:\Zach\C# Training\Day 7\Day07 02 Work with Dictionaries\obj\Debug\net8.0\ref\Day07 02 Work with Dictionaries.dll

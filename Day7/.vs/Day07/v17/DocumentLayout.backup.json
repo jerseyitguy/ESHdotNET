@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zach\\C# Training\\Day 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC8D3D0-03D0-413B-B442-660A2E0FB8A5}|Day07 03 list-ofcollection\\Day07 03 list-ofcollection.csproj|d:\\zach\\c# training\\day 7\\day07 03 list-ofcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC8D3D0-03D0-413B-B442-660A2E0FB8A5}|Day07 03 list-ofcollection\\Day07 03 list-ofcollection.csproj|solutionrelative:day07 03 list-ofcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zach\\C# Training\\Day 7\\Day07 03 list-ofcollection\\Program.cs",
+              "RelativeDocumentMoniker": "Day07 03 list-ofcollection\\Program.cs",
+              "ToolTip": "D:\\Zach\\C# Training\\Day 7\\Day07 03 list-ofcollection\\Program.cs",
+              "RelativeToolTip": "Day07 03 list-ofcollection\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:44:07.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

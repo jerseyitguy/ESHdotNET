@@ -1,0 +1,49 @@
+﻿/*Sorting a list of complex types in C# can be done using 
+ * the List<T>.Sort method,  which requires a comparison 
+ * strategy. For complex types, you typically use the 
+IComparer<T> interface or a lambda expression to define 
+how to compare two objects.
+*/
+
+
+using System;
+using System.Collections.Generic;
+
+namespace Day07_05_Sort_a_List_of_Complex_Types
+{
+    public class Person
+    {
+        // Properties to store the name and age of the person
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
+
+    public class Program
+    {
+        public static void Main()
+        {
+            // Create and initialize a list of Person objects
+            List<Person> people = new List<Person>
+        {
+            new Person { Name = "Alice", Age = 30 },
+            new Person { Name = "Bob", Age = 25 },
+            new Person { Name = "Charlie", Age = 35 }
+        };
+
+            // Sort the list by Age using a lambda expression
+            // The lambda expression (p1, p2) => p1.Age.CompareTo(p2.Age) defines how two Person objects should be compared
+            // p1 and p2 represent two Person objects being compared
+            // p1.Age.CompareTo(p2.Age) returns a negative number if p1.Age is less than p2.Age, 
+            // zero if they are equal, and a positive number if p1.Age is greater than p2.Age
+            people.Sort((p1, p2) => p1.Age.CompareTo(p2.Age));
+
+            // Iterate over the sorted list and print the details of each person
+            foreach (var person in people)
+            {
+                // Print the Name and Age of each person in the list
+                Console.WriteLine($"{person.Name}, Age: {person.Age}");
+            }
+        }
+    }
+
+}

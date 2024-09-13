@@ -1,0 +1,14 @@
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\bin\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.exe
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\bin\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.deps.json
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\bin\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.runtimeconfig.json
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\bin\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.dll
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\bin\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.pdb
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.AssemblyInfoInputs.cache
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.AssemblyInfo.cs
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.csproj.CoreCompileInputs.cache
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.dll
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\refint\Day07 06 Working with Generic list class & Ranges.dll
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.pdb
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\Day07 06 Working with Generic list class & Ranges.genruntimeconfig.cache
+D:\Zach\C# Training\Day 7\Day07 06 Working with Generic list class & Ranges\obj\Debug\net8.0\ref\Day07 06 Working with Generic list class & Ranges.dll

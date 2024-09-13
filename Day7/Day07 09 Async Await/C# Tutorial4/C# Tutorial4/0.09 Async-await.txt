@@ -1,0 +1,38 @@
+/*Async and Await in C# are used to write asynchronous code that is easier to understand and maintain. These keywords are part of the Task-based Asynchronous Pattern (TAP) introduced in .NET Framework 4.5. They allow you to perform tasks asynchronously, meaning the application can continue executing other code without waiting for the task to complete, which is particularly useful for I/O-bound operations like file access, database queries, and web requests.*/
+
+using System;
+using System.Threading.Tasks;
+
+class Program
+{
+    // Entry point of the application
+    // This method is asynchronous and allows the use of the 'await' keyword
+    public static async Task Main()
+    {
+        // Output a message to indicate that the process is starting
+        Console.WriteLine("Starting....");
+        
+        // Call the asynchronous Perform method and wait for it to complete
+        // 'await' pauses execution of Main until Perform completes
+        await Perform();
+        
+        // Output a message to indicate that the process has ended
+        Console.WriteLine("Ending");
+    }
+
+    // An asynchronous method that performs a task
+    // It returns a Task, which represents an ongoing operation
+    public static async Task Perform()
+    {
+        // Output a message to indicate that the performing task has started
+        Console.WriteLine("Performing...");
+        
+        // Asynchronously wait for 3000 milliseconds (3 seconds)
+        // This simulates a delay and allows other operations to run concurrently
+        // The method will be paused at this point and will resume after the delay
+        await Task.Delay(3000);
+        
+        // Output a message to indicate that the performing task is nearly finished
+        Console.WriteLine("Soon performance is ending");
+    }
+}

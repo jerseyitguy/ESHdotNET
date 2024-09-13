@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Day07_03_list_ofcollection
+{
+    class Program
+    {
+        static void Main()
+        {
+            // Create a new List of strings
+            List<string> fruits = new List<string>();
+
+            // Add items to the List
+            fruits.Add("Apple");
+            fruits.Add("Banana");
+            fruits.Add("Cherry");
+            
+            // Access items by index
+            Console.WriteLine("First fruit: " + fruits[0]);
+
+            // Iterate through the List
+            Console.WriteLine("All fruits:");
+            foreach (string fruit in fruits)
+            {
+                Console.WriteLine(fruit);
+            }
+            fruits.Insert(0, "Cherry");
+
+            // Remove an item from the List
+            fruits.Remove("Banana");
+
+            // Check if the item was removed
+            Console.WriteLine("All fruits after removal:");
+            foreach (string fruit in fruits)
+            {
+                Console.WriteLine(fruit);
+            }
+        }
+    }
+
+}

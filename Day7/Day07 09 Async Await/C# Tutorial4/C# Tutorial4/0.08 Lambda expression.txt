@@ -1,0 +1,41 @@
+/*Lambda expressions in C# are a concise way to write anonymous methods using a special syntax. They are particularly useful in situations where you want to create short, inline functions without having to define a full method. Lambda expressions are often used with delegates or in LINQ queries to define operations on collections.*/
+
+
+using System; // Namespace for basic functionality, like Console and data types
+using System.Collections.Generic; // Namespace for using generic collections like List<T>
+using System.Linq; // Namespace for LINQ (Language Integrated Query) methods like Where and Select
+
+// Define a Product class to represent an item with a name and a price
+public class Product
+{
+    public string Name { get; set; } // Property to store the name of the product
+    public decimal Price { get; set; } // Property to store the price of the product
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Create a list of Product objects, initializing each with a name and price
+        var products = new List<Product>
+        {
+            new Product { Name = "Smart Speaker", Price = 75.00M }, // Product 1
+            new Product { Name = "Smart Light Bulb", Price = 25.00M }, // Product 2
+            new Product { Name = "Smart Thermostat", Price = 120.00M }, // Product 3
+            new Product { Name = "Smart Lock", Price = 45.00M }, // Product 4
+            new Product { Name = "Smart Doorbell", Price = 65.00M } // Product 5
+        };
+
+        // Use LINQ to filter the list of products, keeping only those with a price greater than 50
+        var expensiveProducts = products.Where(p => p.Price > 50);
+        
+        // Use LINQ to project the filtered list into a collection of product names
+        var productNames = expensiveProducts.Select(p => p.Name);
+
+        // Iterate over the filtered product names and print each one to the console
+        foreach (var name in productNames)
+        {
+            Console.WriteLine(name); // Output the name of each product that costs more than 50
+        }
+    }
+}
